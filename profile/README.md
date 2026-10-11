@@ -46,8 +46,7 @@ Archentic is a private addon set on a shared runtime. [framework](https://github
 
 - [ai](https://github.com/archentic/ai) — AI provider configuration, agents, skills, rules, and MCP servers.
 - [rag](https://github.com/archentic/rag) — Retrieval workspaces, vector storage, ingestion jobs, and RAG MCP wiring.
-- [generator](https://github.com/archentic/generator) — Image-generation studio: person records, catalogs, queued jobs, and an images library.
-- [comfyui](https://github.com/archentic/comfyui) — Connect the generator studio to a ComfyUI instance.
+- [comfyui](https://github.com/archentic/comfyui) — Per-person LoRA, trigger words, and caption generation through a ComfyUI instance.
 - [lora](https://github.com/archentic/lora) — Assemble person-reference datasets, caption them, and export Kohya training zips.
 - [person](https://github.com/archentic/person) — Reusable person catalog with appearance tags and reference image slots.
 - [generate](https://github.com/archentic/generate) — OpenRouter image generation and editing studio with a gallery, prompt catalogs, and vision import.
