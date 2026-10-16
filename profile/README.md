@@ -35,7 +35,8 @@ Archentic is a private addon set on a shared runtime. [framework](https://github
 - [broadcasts](https://github.com/archentic/broadcasts) — Per-user live channels: RTMP ingest, a public watch page, and live status.
 - [ffmpeg](https://github.com/archentic/ffmpeg) — Worker jobs for HLS, MPEG-DASH, and optional RTMP publish.
 - [rtmp](https://github.com/archentic/rtmp) — RTMP publish helpers for playback addons.
-- [spotify](https://github.com/archentic/spotify) — Spotify OAuth connector and Web Playback access tokens.
+- [spotify](https://github.com/archentic/spotify) — Spotify catalog browsing and Web Playback views.
+- [spotify_auth](https://github.com/archentic/spotify_auth) — Spotify OAuth credentials and access tokens for the Spotify addon.
 
 ## AI
 
